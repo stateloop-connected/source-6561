@@ -1,0 +1,14 @@
+{
+  "build_script": "npm run build:minify",
+  "gameplay_or_asset_changes": false,
+  "lockfile": "package-lock.json",
+  "mode": "native_source_build",
+  "repository": "ZeroMarker/6561",
+  "schema_version": 1,
+  "source_changes": [
+    ".packaging/plan.json"
+  ],
+  "status": "ready",
+  "upstream_code_executed_locally": false,
+  "upstream_sha": "75874e7b0d010c4ec16a2202792718b6f100465d"
+}
